@@ -25,8 +25,8 @@ contract OurTokenTest is Test {
     // Initial State Tests
 
     function testTokenDetails() public {
-        assertEq(ourToken.name(), "ETHPIF Token");
-        assertEq(ourToken.symbol(), "ETHPIF");
+        assertEq(ourToken.name(), "ETHT Token");
+        assertEq(ourToken.symbol(), "ETHT");
         assertEq(ourToken.decimals(), 18);
     }
 
