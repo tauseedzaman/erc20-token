@@ -1,4 +1,11 @@
 ## Foundry
+# Screenshots
+
+Coverage:
+![image](https://github.com/tauseedzaman/erc20-token/assets/64689921/5b59b51b-984b-4eec-b505-8afb16a9dc87)
+
+Tests
+![image](https://github.com/tauseedzaman/erc20-token/assets/64689921/a66b4108-9b32-4edb-90d9-5b962561ca9a)
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
